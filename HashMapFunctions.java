@@ -16,3 +16,5 @@ public class HashMapAwesomeness {
 //to remove element // remove 
 // to get // .get 
 // to replace // .replace
+// to get all values // .values
+//to get all keys // .keys
